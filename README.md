@@ -2,7 +2,7 @@
 
 🔭 I'm french junior Python developper.
 
-⚡ Fun fact (or not): some of my projects are vibecoded. In those cases, it's mentionned in README file.
+⚡ Some of my projects are vibecoded. In those cases, it's mentionned in README file.
 
 
 <!--
